@@ -1,0 +1,9 @@
+:root {
+    --red: #EC3750;
+    --orange: #FF8C37;
+    --primary: var(--red);
+    --secondary: white;
+    --black: black;
+    --dark-gray: #161616;
+    --primary-linear: linear-gradient(0deg, var(--red) 0%, var(--orange) 100%);
+}
