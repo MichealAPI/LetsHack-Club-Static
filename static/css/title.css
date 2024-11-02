@@ -1,0 +1,22 @@
+.title h1 {
+    color: var(--secondary);
+    font-family: 'Phantom Sans', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-style: bold;
+}
+
+.title {
+    margin-top: 100px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .title h1 {
+        font-size: 30px;
+    }
+
+    .title {
+        margin-top: 50px;
+    }
+}

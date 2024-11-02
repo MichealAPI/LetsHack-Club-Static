@@ -1,0 +1,14 @@
+.accordion {
+    --bs-accordion-bg: transparent;
+    --bs-accordion-color: var(--secondary);
+    --bs-accordion-border-width: 2px;
+
+    --bs-accordion-btn-color: var(--secondary);
+    --bs-accordion-active-bg: var(--primary);
+    --bs-accordion-active-color: var(--secondary);
+}
+
+.accordion-button {
+    font-family: 'Phantom Sans', sans-serif;
+    font-style: bold;
+}
