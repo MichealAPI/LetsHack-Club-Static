@@ -3,7 +3,7 @@
     font-family: "Black Han Sans", sans-serif;
     -webkit-text-stroke-width: 6.5px;
     -webkit-text-stroke-color: var(--orange);
-    color: var(--dark-gray);
+    color: var(--gray);
     user-select: none;
 }
 

@@ -11,7 +11,7 @@
 }
 
 .register form .email input[type="email"]::placeholder {
-    color: var(--black);
+    color: var(--dark-gray);
     opacity: .5;
 }
 
